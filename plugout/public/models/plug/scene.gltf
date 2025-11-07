@@ -1,0 +1,502 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.002295583486557007,
+        2.0992010831832886e-05,
+        0.29645469784736633
+      ],
+      "min": [
+        -0.002295657992362976,
+        -0.2916957437992096,
+        -0.00230281800031662
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12012,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        1.0,
+        0.9999979734420776,
+        0.999995231628418
+      ],
+      "min": [
+        -1.0,
+        -0.9999980330467224,
+        -0.999993622303009
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.014133772812783718,
+        0.9999998807907104,
+        0.005280239507555962,
+        -1.0
+      ],
+      "min": [
+        -0.014133852906525135,
+        -0.0051140934228897095,
+        -0.9999980330467224,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.8275634050369263,
+        0.8227380514144897
+      ],
+      "min": [
+        0.01889348030090332,
+        0.2861670255661011
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8008,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.8275634050369263,
+        0.8227380514144897
+      ],
+      "min": [
+        0.01889348030090332,
+        0.2861670255661011
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 16016,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.8275634050369263,
+        0.8227380514144897
+      ],
+      "min": [
+        0.01889348030090332,
+        0.2861670255661011
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24024,
+      "componentType": 5126,
+      "count": 1001,
+      "max": [
+        0.8275634050369263,
+        0.8227380514144897
+      ],
+      "min": [
+        0.01889348030090332,
+        0.2861670255661011
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5256,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24024,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        0.023431891575455666,
+        0.022007424384355545,
+        0.046580225229263306
+      ],
+      "min": [
+        -0.019900841638445854,
+        -0.04858753830194473,
+        -0.02007340081036091
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 90708,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 16016,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        1.0,
+        1.0,
+        0.9999802112579346,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32032,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        0.497501939535141,
+        0.4873972535133362
+      ],
+      "min": [
+        0.005348367616534233,
+        0.0054415445774793625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 76488,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        0.497501939535141,
+        0.4873972535133362
+      ],
+      "min": [
+        0.005348367616534233,
+        0.0054415445774793625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 120944,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        0.497501939535141,
+        0.4873972535133362
+      ],
+      "min": [
+        0.005348367616534233,
+        0.0054415445774793625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 165400,
+      "componentType": 5126,
+      "count": 5557,
+      "max": [
+        0.497501939535141,
+        0.4873972535133362
+      ],
+      "min": [
+        0.005348367616534233,
+        0.0054415445774793625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 21024,
+      "componentType": 5125,
+      "count": 24864,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Carlos.Maciel (https://sketchfab.com/Carlos.Maciel)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/european-plug-energy-722a189a43314b57b09d2ac264d6e4af",
+      "title": "European plug energy"
+    },
+    "generator": "Sketchfab-15.31.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 120480,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 209856,
+      "byteOffset": 120480,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 157392,
+      "byteOffset": 330336,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 104928,
+      "byteOffset": 487728,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 592656,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/PowerPlugsTypeB001_1K_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/PowerPlugsTypeB001_1K_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/PowerPlugsTypeB001_1K_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "PowerPlugsTypeB001_1K",
+      "normalTexture": {
+        "index": 2,
+        "texCoord": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12,
+            "TEXCOORD_2": 13,
+            "TEXCOORD_3": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.022084467113018036,
+        -0.0308926310390234,
+        0.019463254138827324,
+        1.0
+      ],
+      "name": "PowerPlugEUTypeB001_cable_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.7425090074539185,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.7425090074539185,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.7425090074539185,
+        0.0,
+        -0.023482700809836388,
+        0.0005726616363972425,
+        0.0,
+        1.0
+      ],
+      "name": "PowerPlugEUTypeB001_1"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

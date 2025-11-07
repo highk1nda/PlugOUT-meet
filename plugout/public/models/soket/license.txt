@@ -1,0 +1,11 @@
+Model Information:
+* title:	Soket
+* source:	https://sketchfab.com/3d-models/soket-961afedfa07b4d0bb73bd1c536ad1c8e
+* author:	Progressive Dreamer (https://sketchfab.com/dbtjdwns0000)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Soket" (https://sketchfab.com/3d-models/soket-961afedfa07b4d0bb73bd1c536ad1c8e) by Progressive Dreamer (https://sketchfab.com/dbtjdwns0000) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

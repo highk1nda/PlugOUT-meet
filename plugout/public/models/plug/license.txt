@@ -1,0 +1,11 @@
+Model Information:
+* title:	European plug energy
+* source:	https://sketchfab.com/3d-models/european-plug-energy-722a189a43314b57b09d2ac264d6e4af
+* author:	Carlos.Maciel (https://sketchfab.com/Carlos.Maciel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "European plug energy" (https://sketchfab.com/3d-models/european-plug-energy-722a189a43314b57b09d2ac264d6e4af) by Carlos.Maciel (https://sketchfab.com/Carlos.Maciel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
